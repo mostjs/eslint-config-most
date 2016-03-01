@@ -2,7 +2,7 @@
 
 ## Usage
 
-### package-starter
+### Via package-starter
 
 Use the [package-starter](https://github.com/mostjs/package-starter).
 
