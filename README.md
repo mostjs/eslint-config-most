@@ -16,7 +16,7 @@ npm install --save-dev @most/eslint-config-most
 
 ```js
 {
-  'extends': 'most'
+  'extends': '@most/eslint-config-most'
 }
 ```
 
