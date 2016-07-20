@@ -22,5 +22,11 @@
     "eslint-config-standard": "^5.1.0",
     "eslint-plugin-promise": "^1.0.8",
     "eslint-plugin-standard": "^1.3.2"
+  },
+  "scripts": {
+    "postpublish": "greenkeeper-postpublish"
+  },
+  "devDependencies": {
+    "greenkeeper-postpublish": "^1.0.0"
   }
 }
