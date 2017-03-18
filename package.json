@@ -14,7 +14,7 @@
   },
   "homepage": "https://github.com/mostjs/eslint-config-most#readme",
   "dependencies": {
-    "eslint-config-standard": "^5.3.5",
+    "eslint-config-standard": "^7.1.0",
     "eslint-plugin-promise": "^2.0.0",
     "eslint-plugin-standard": "^2.0.0"
   },
